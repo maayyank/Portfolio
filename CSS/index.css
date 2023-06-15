@@ -1,0 +1,29 @@
+.container{
+    background: #F8F6F4;
+    /* height: 30vh; */
+}
+a:link{
+ text-decoration: none; 
+}
+.profile-img {
+  height: 300px;
+  border-radius: 50%;
+}
+.title-name{
+    margin-top: 40;
+}
+.name{
+    text-align: center;
+    /* font-family: 'Bree Serif', serif; */
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+  }
+.name1{
+  text-align: center;
+  /* font-family: 'Bree Serif', serif; */
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+}
+.footer{
+height: 70px;
+}
