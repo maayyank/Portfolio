@@ -18,6 +18,8 @@ a:link{
 .profile-pic{
    place-items: center;
    grid-area: 2/-2/1/3;
+   height: 300px; 
+   border-radius: 50%;
 }
 /* .info{
     font-family: 'Playfair Display', serif;
