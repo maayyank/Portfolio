@@ -3,7 +3,7 @@
   position: absolute;
   width: var(--size);
   /* height: var(--size); */
-  top: 660px;
+  top: 580px;
   left: 50%;
   margin: calc(var(--size) / -2);
   background: #F8F6F4;
