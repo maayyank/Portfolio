@@ -22,6 +22,13 @@ a:link{
    height: 300px; 
    border-radius: 50%;
 }
+@media (max-width: 420px)
+ {
+    .profile-pic{
+    width: 170px;
+    height: 270px;
+    }
+}
 /* .info{
     font-family: 'Playfair Display', serif;
 }
