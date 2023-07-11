@@ -16,9 +16,15 @@ font-family: 'Playfair Display', serif;
 a:link{
     text-decoration: none; 
 }
+.profile-pic1{
+    place-items: center;
+    grid-area: 2/-2/1/3;
+    /* height: 300px;  */
+    /* border-radius: 50%; */
+ }
 .profile-pic{
-   place-items: center;
-   grid-area: 2/-2/1/3;
+   /* place-items: center; */
+   /* grid-area: 2/-2/1/3; */
    height: 300px; 
    border-radius: 50%;
 }
